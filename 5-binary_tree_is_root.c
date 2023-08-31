@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_is_root - pointer to the node to check
- * @node: pointer to the root node of the tree to delete
+ * @node: pointer to the node to check
  * Return: 1 if node is a root, otherwise 0. If node is NULL, return 0
  */
 
